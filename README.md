@@ -24,5 +24,5 @@ Test accuracies are below for the 28-class wine variety classification task. As 
 
 
 ##### Word2Vec:
-In a separate but related task, word embeddings are fit on the wine tasting notes using the Word2Vec algorithm. These reveal interesting clusters and relationships of wine-related words that can be explored. 
+In a separate but related task, word embeddings are fit on the wine tasting notes using the Word2Vec algorithm. These reveal interesting clusters and relationships of wine-related words that can be explored here: http://kag.georgetown.domains/nlpproject/index.html 
 
