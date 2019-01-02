@@ -1,6 +1,6 @@
-anly580-wine-project
+### anly580-wine-project
 
-This project applies text classification methods for predicting a wine’s variety from its tasting note, or description. See final_paper.pdf for full details. 
+_This project applies text classification methods for predicting a wine’s variety from its tasting note, or description. See [final_paper.pdf](https://github.com/kgedney/anly580-wine-project/blob/master/final_paper.pdf) for full details._ 
 
 ##### Dataset:
 - Scraped data from https://www.thewinecellarinsider.com/
@@ -21,6 +21,7 @@ Test accuracies are below for the 28-class wine variety classification task. As 
 | Simple Pooling  | 0.84  |
 | LSTM  | 0.82  |
 | Bi-LSTM  | 0.83 |
+
 
 ##### Word2Vec:
 In a separate but related task, word embeddings are fit on the wine tasting notes using the Word2Vec algorithm. These reveal interesting clusters and relationships of wine-related words that can be explored. 
